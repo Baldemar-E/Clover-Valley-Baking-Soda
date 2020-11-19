@@ -23,6 +23,7 @@ h1{
   font-size: 72px;
 font-family: 'Tenor Sans', regular;
   font-style: normal;
+  text-shadow: 2px 2px #000000;
   color: #ffedd1;
   text-align:center;
   margin:0;
@@ -32,8 +33,9 @@ h2{
   font-size: 48px;
 font-family: 'Tenor Sans', regular;
   font-style: normal;
+  text-shadow: 2px 2px #000000;
   color: #ffedd1;
-  text-align:right;
+  text-align:center;
   margin:0;
   padding:0;
 }
